@@ -46,6 +46,7 @@ export class InscricaoForm implements OnInit {
   success = false;
 
 
+
   // Opções para os campos de seleção
   religioes = [
     'Adventista do 7º Dia',
